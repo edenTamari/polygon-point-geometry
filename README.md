@@ -30,4 +30,4 @@ Includes a `tester.py` script to validate functionality via `assert` statements.
 If all tests pass, you’ll see:
 
 ```bash
-✅ All tests passed!
+All tests passed!
